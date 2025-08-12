@@ -1,5 +1,5 @@
 {
-  "originHash" : "ad35f7cce3eb38ad5e7d55cff5e9b28638dc499db2f0744a61d9b321948bbefd",
+  "originHash" : "1a1bdd960a8d22007ba1e6b8d56f9a18baed1abdf1e25ea48a216c0b8ed80cda",
   "pins" : [
     {
       "identity" : "swallow",
@@ -29,30 +29,12 @@
       }
     },
     {
-      "identity" : "swift-subprocess",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/preternatural-fork/swift-subprocess.git",
-      "state" : {
-        "branch" : "main",
-        "revision" : "80bd50f91abf49164156b61c1071821927242c62"
-      }
-    },
-    {
       "identity" : "swift-syntax",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swift-precompiled/swift-syntax",
       "state" : {
         "branch" : "release/6.1",
         "revision" : "fc197a24fb2e77609fbe3d94624e36f84d758099"
-      }
-    },
-    {
-      "identity" : "swift-system",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/apple/swift-system",
-      "state" : {
-        "revision" : "61e4ca4b81b9e09e2ec863b00c340eb13497dac6",
-        "version" : "1.5.0"
       }
     }
   ],
